@@ -1,0 +1,2 @@
+# listshopappSequelize
+# listshopappSequelize
